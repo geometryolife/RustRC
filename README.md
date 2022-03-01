@@ -1,0 +1,2 @@
+# RustRC
+Rust Resource Comment.
